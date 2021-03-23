@@ -26,6 +26,7 @@
 
 
 **Stats:**  
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legend-js-dev&show_icons=true&layout=compact&hide_border=true&theme=dark" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishitajs&show_icons=true&theme=dark&line_height=21" alt="ishitajs' github stats"/>
 
