@@ -1,10 +1,20 @@
+### Hi there, Iam Ishita, 🚀
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ishitajs" alt="yus" /> </p>
 <p align='center'> <a href="https://discord.gg/drunk">
   <img align="center" alt="Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a> </p>
 
 <p align="center"> <img src="https://discord.c99.nl/widget/theme-3/783559957147549716.png" alt="Discord" /> </p>
 
-### Hey there glad to meet you, Iam Ishita discord developer and a web-developer from India. 
+
+
+
+
+
+
+<br />
+
+### Hey nice to meet you, Iam Ishita discord developer and a web-developer from India. 
 - 🔭 Iam learning **React.js and C++**
 - 🥅 Looking for collabrators for **open source projects**
 - 📫 Contact me at **itsmeishita4@gmail.com**
