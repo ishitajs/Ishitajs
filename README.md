@@ -14,7 +14,8 @@
 
 <br />
 
-### Hey nice to meet you, I'm Ishita discord developer and a web-developer from India. 
+### Hey nice to meet you, I'm Ishita
+- 🇮🇳 Iam from India
 - 🔭 Iam learning **React.js** 
 - 🥅 Looking for collabrators for **open source projects**
 - 📫 Contact me at **itsmeishita4@gmail.com**
