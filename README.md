@@ -33,6 +33,6 @@
 
 * **Discord Server**
 </br></br>
-<a href="https://discord.gg/sWfMBbabna"><img src="https://invidget.switchblade.xyz/NtyaM9d"/></a>
+<a href="https://discord.gg/sWfMBbabna"><img src="https://invidget.switchblade.xyz/sWfMBbabna"/></a>
 <br><br>
 
