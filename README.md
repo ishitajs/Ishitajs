@@ -29,5 +29,8 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishitajs&show_icons=true&theme=dark&line_height=21" alt="legend-js' github stats"/>
-
+  
+* **Discord Server**
+</br></br>
+<a href="https://discord.gg/sWfMBbabna"><img src="https://invidget.switchblade.xyz/63fNqFXs9d"/></a>
 
