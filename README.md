@@ -29,7 +29,6 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishitajs&show_icons=true&theme=dark&line_height=21" alt="legend-js' github stats"/>
- [![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ishitajs&layout=compact&theme=nightowl)](https://github.com/ishitajs/) 
   
   
 
@@ -39,3 +38,5 @@ Come say hi to me 😸
 <a href="https://discord.gg/sWfMBbabna"><img src="https://invidget.switchblade.xyz/sWfMBbabna"/></a>
 <br><br>
 
+### Most Used Languages
+ [![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ishitajs&layout=compact&theme=nightowl)](https://github.com/ishitajs/) 
