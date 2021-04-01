@@ -32,6 +32,7 @@
   
 
 ## Discord Server
+Come say hi ti me 😄
 </br></br>
 <a href="https://discord.gg/sWfMBbabna"><img src="https://invidget.switchblade.xyz/sWfMBbabna"/></a>
 <br><br>
