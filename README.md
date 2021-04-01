@@ -29,6 +29,8 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishitajs&show_icons=true&theme=dark&line_height=21" alt="legend-js' github stats"/>
+ [![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ishitajs&layout=compact&theme=nightowl)](https://github.com/ishitajs/) 
+  
   
 
 ## Discord Server
