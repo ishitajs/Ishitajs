@@ -42,5 +42,4 @@ Come say hi to me 😸
 [![CalysoBot](https://github-readme-stats.vercel.app/api/pin/?username=ishitajs&repo=CalypsoBot&theme=nightowl)](https://github.com/ishitajs/CalypsoBot)
 [![Mai](https://github-readme-stats.vercel.app/api/pin/?username=ishitajs&repo=Mai&theme=nightowl)](https://github.com/ishitajs/Mai)
 
-### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishitajs)](https://github.com/ishitajs/github-readme-stats)
+
