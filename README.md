@@ -39,7 +39,7 @@ Come say hi to me 😸
 <br><br>
 
 ### Pinned Repositories
-[![Mai](https://github-readme-stats.vercel.app/api/pin/?username=ishitajs&repo=Mai&theme=nightowl)](https://github.com/ishitajs/CalypsoBot)
+[![Mai](https://github-readme-stats.vercel.app/api/pin/?username=ishitajs&repo=CalypsoBot&theme=nightowl)](https://github.com/ishitajs/CalypsoBot)
 
 ### Most Used Languages
  [![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ishitajs&layout=compact&theme=nightowl)](https://github.com/ishitajs)
